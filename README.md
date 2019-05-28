@@ -1,5 +1,8 @@
 # MyDreamApp
 
+    This is a project which i made while learning Angular!
+    ******The way we navigate, route, use dependency Injections,create list, add item in the list, remove item in the list.******
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
